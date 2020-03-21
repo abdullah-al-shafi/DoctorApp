@@ -111,8 +111,7 @@ public class MainActivity extends AppCompatActivity {
 
 //    private static final String TWILIO_ACCESS_TOKEN ="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImN0eSI6InR3aWxpby1mcGE7dj0xIn0.eyJqdGkiOiJTS2MwNjA4OGM4MDJiNmM1MTJkNjQzNjkxYWE0MDlkNmJkLTE1ODQ3MjMyNjUiLCJncmFudHMiOnsiaWRlbnRpdHkiOiJhZmlmYSIsInZpZGVvIjp7InJvb20iOiJEYWt0YXJCb25kaHUifX0sImlhdCI6MTU4NDcyMzI2NSwiZXhwIjoxNTg0NzI2ODY1LCJpc3MiOiJTS2MwNjA4OGM4MDJiNmM1MTJkNjQzNjkxYWE0MDlkNmJkIiwic3ViIjoiQUMxZmJlZTE3NGM0ZmJhZjJmZjE1YmI3N2UyMDgxNThlYiJ9.SzJnNqVHjgdkR6sgG-8w3HPg4XUH5HgyNwwRc-mPs_Q";
         private static  String TWILIO_ACCESS_TOKEN ;
-//    private static final String ACCESS_TOKEN_SERVER = "https://lemon-nightingale-6531.twil.io/video-token?/identity=humaira";
-    private static final String ACCESS_TOKEN_SERVER = "https://lemon-nightingale-6531.twil.io/video?identity=afifa";
+    private static final String ACCESS_TOKEN_SERVER = "https://lemon-nightingale-6531.twil.io/video?identity=doctor";
 
     /*
      * Access token used to connect. This field will be set either from the console generated token
